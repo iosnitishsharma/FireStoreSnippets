@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "142052176176",
+    "firebase_url": "https://fir-analyticsofficial.firebaseio.com",
+    "project_id": "fir-analyticsofficial",
+    "storage_bucket": "fir-analyticsofficial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142052176176:android:2a70ae1029a731d9",
+        "android_client_info": {
+          "package_name": "com.github.googlecodelabs.icon_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142052176176-elsa2gptn3ojt5cpki89mvhhlq17lg7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSe4vKyERECrEpBZ7kaLAPsA4kWAahD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142052176176:android:c1f0f09aa42eba16",
+        "android_client_info": {
+          "package_name": "com.google.firebase.example.fireeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142052176176-6jussrflk8icimhv4demnlajpqh3s4m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.example.fireeats",
+            "certificate_hash": "6c713d504f32cfa3d2090f04fff65913b6f99c14"
+          }
+        },
+        {
+          "client_id": "142052176176-elsa2gptn3ojt5cpki89mvhhlq17lg7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSe4vKyERECrEpBZ7kaLAPsA4kWAahD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142052176176-elsa2gptn3ojt5cpki89mvhhlq17lg7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142052176176:android:992afe65f1d172f7",
+        "android_client_info": {
+          "package_name": "nitishsharma.com.firestoresnippets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142052176176-vjia18t8thke79jt1rjf2qmd37rfmobv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nitishsharma.com.firestoresnippets",
+            "certificate_hash": "6c713d504f32cfa3d2090f04fff65913b6f99c14"
+          }
+        },
+        {
+          "client_id": "142052176176-elsa2gptn3ojt5cpki89mvhhlq17lg7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSe4vKyERECrEpBZ7kaLAPsA4kWAahD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142052176176-elsa2gptn3ojt5cpki89mvhhlq17lg7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
